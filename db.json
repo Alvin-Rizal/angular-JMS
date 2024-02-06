@@ -1,0 +1,48 @@
+{
+   "employee":[ {
+    "username": "random",
+    "firstName" : "alif",
+    "lastName": "imam",
+    "birthDate":"1999-1-1",
+    "basicSalary":"3000000",
+    "status":"active",
+    "group":"pegawai"
+   } ,
+   {
+    "username": "johnsmith",
+    "firstName" : "John",
+    "lastName": "Smith",
+    "birthDate":"1988-07-15",
+    "basicSalary":"3500000",
+    "status":"active",
+    "group":"pegawai"
+   } ,
+   {
+    "username": "janedoe",
+    "firstName" : "Jane",
+    "lastName": "Doe",
+    "birthDate":"1995-03-20",
+    "basicSalary":"3200000",
+    "status":"active",
+    "group":"pegawai"
+   } ,
+   {
+    "username": "samjones",
+    "firstName" : "Sam",
+    "lastName": "Jones",
+    "birthDate":"1983-11-05",
+    "basicSalary":"3800000",
+    "status":"active",
+    "group":"pegawai"
+   },
+   {
+    "username": "sarahr",
+    "firstName" : "Sarah",
+    "lastName": "Robinson",
+    "birthDate":"1992-09-10",
+    "basicSalary":"4000000",
+    "status":"active",
+    "group":"pegawai"
+   } 
+]
+}
